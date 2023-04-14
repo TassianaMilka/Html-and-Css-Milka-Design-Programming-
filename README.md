@@ -13,6 +13,7 @@ as imagens das telas vai esta no Pinterest.
 
 2.No wiki do Github contém url que direciona para o Pinterest e visualização todas telas.
 
+# --------------------------------------------------------------------------------------------------------------------------------
 
 
 # Summary in English
