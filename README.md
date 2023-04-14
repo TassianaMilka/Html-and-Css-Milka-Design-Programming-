@@ -6,7 +6,7 @@
 
 # Resumo em Português
 
-Nesse repositório vai ser colocado todos os projetos destinado ao Milka Design Programming para o acesso e identigicação e 
+Nesse repositório vai ser colocado todos os projetos destinado ao Milka Design Programming para o acesso de identificação e 
 as imagens das telas vai esta no Pinterest.
 
 1.Cada projetos em suas pastas;
@@ -17,7 +17,7 @@ as imagens das telas vai esta no Pinterest.
 
 # Summary in English
 
-In this repository will be placed all the projects destined to Milka Design Programming for access and identification and
+In this repository will be placed all the projects destined to Milka Design Programming for access in identification and
 Screenshots are on Pinterest.
 
 1.Each project in its folders;
@@ -27,7 +27,7 @@ Screenshots are on Pinterest.
 # Resumen en Español    
 
 
-En este repositorio se colocarán todos los proyectos destinados a Milka Design Programming para acceso e identificación y
+En este repositorio se colocarán todos los proyectos destinados a Milka Design Programming para acceso en identificación y
 Las capturas de pantalla están en Pinterest.
 
 1.Cada proyecto en sus carpetas;
