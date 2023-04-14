@@ -27,6 +27,7 @@ Screenshots are on Pinterest.
 
 # Resumen en Español    
 
+# --------------------------------------------------------------------------------------------------------------------------------
 
 En este repositorio se colocarán todos los proyectos destinados a Milka Design Programming para acceso en identificación y
 Las capturas de pantalla están en Pinterest.
@@ -36,6 +37,7 @@ Las capturas de pantalla están en Pinterest.
 2.En Github, wiki contiene una url que apunta a Pinterest y ve todas las pantallas.
 
 
+# --------------------------------------------------------------------------------------------------------------------------------
 
 
 # https://github.com/TassianaMilka/Html-and-Css-Milka-Design-Programming-/wiki
