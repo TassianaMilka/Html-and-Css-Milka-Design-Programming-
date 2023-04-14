@@ -19,6 +19,7 @@ In this repository will be placed all the projects destined to Milka Design Prog
 Screenshots are on Pinterest.
 
 1.Each project in its folders;
+
 2.On Github wiki contains url that directs to Pinterest and view all screens.
 
 # Resumen en Español    
@@ -28,6 +29,7 @@ En este repositorio se colocarán todos los proyectos destinados a Milka Design 
 Las capturas de pantalla están en Pinterest.
 
 1.Cada proyecto en sus carpetas;
+
 2. En Github, wiki contiene una URL que apunta a Pinterest y ve todas las pantallas.
 
 
