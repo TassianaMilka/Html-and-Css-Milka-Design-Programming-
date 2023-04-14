@@ -30,7 +30,7 @@ Las capturas de pantalla están en Pinterest.
 
 1.Cada proyecto en sus carpetas;
 
-2. En Github, wiki contiene una URL que apunta a Pinterest y ve todas las pantallas.
+2.En Github, wiki contiene una URL que apunta a Pinterest y ve todas las pantallas.
 
 
 
