@@ -1,6 +1,6 @@
 # Html-and-Css-Milka-Design-Programming-
 
-# Summary in Portuguese,English and Spanish
+ Summary in Portuguese,English and Spanish
 
 # Resumo em Português
 
@@ -8,6 +8,7 @@ Nesse repositório vai ser colocado todos os projetos destinado ao Milka Design 
 as imagens das telas vai esta no Pinterest.
 
 1.Cada projetos em suas pastas;
+
 2.No wiki do Github contém url que direciona para o Pinterest e visualização todas telas.
 
 
