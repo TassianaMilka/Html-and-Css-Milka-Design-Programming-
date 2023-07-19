@@ -1,0 +1,476 @@
+
+
+/* Todas páginas vai conter margem,largura,a fonte da letra,cor de fundo,a rolagem de página o seu tamanho de largura e a cor */
+*{
+
+	margin:0;
+	padding:0;
+	box-sizing: border-box;
+  
+}
+
+
+body{
+	
+	margin:20;
+	padding:20;
+	font-family:cursive;/*monospace */
+	background-color:#C0C0C0;
+	heigth:100vh;
+	overflow:hidden;
+  overflow-y:scroll; 
+
+}
+ 
+ /*Destinado para o funcionamento da rolagem de página*/
+body::-webkit-scrollbar{
+  width: 09px;
+  background-color:#9E2187; 
+  border-radius:20px;
+}
+
+body::-webkit-scrollbar-thumb{
+  background-color:#9E2187;
+  border-radius:20px;
+}
+
+
+/*Faz parte dos botões em que aperta para outra página o seu tamanho,largura e o formato do texto*/
+
+svg{
+  display: absolute;
+  width:80%;
+  height:100%;
+  font-family:raleway;
+
+}
+svg text{
+    text-transform: uppercase;
+    font-size: 120px;
+    font-weight:700;
+    animation: :stroke 5s infinite alternate;
+  }  
+
+
+/*Destinado para decorar deixar a letra mais demonstrativa*/
+
+@keyframes stroke{
+  0%{
+    fill:rgba(56,82,79,0);
+    stroke:rgba(56, 96, 160, 1);
+        stroke-width:2;
+        stroke-dashoffset: 25%;
+        stroke-dasharray: 0 50%;
+  }
+  70%{
+
+    fil:rgba(56,82,79,0);
+    stroke:rgba(56, 95, 160, 1);
+  }
+  80%{
+
+    fil:rgba(56,82,79,0);
+    stroke:rgba(56, 95, 160, 1);
+    stroke-width: 3;
+  }
+  100%{
+    fill:rgba(56,82,79,0);
+    stroke:rgba(54, 96, 160, 1);
+        stroke-width:0;
+        stroke-dashoffset:-25%;
+        stroke-dasharray: 50% 0;
+  }
+} 
+
+/*Faz parte do menu o seu tamnho,largura e a sua cor de fundo*/
+  #menu ul { 
+ 
+  padding:20px ;
+  margin:0px;
+  background-color:#1C1C1C;
+  list-style:none;
+}
+
+.menu a{
+
+
+  color:#FF00FF;
+  font-size:60px;
+  
+}
+
+#menu ul li { display: inline; }
+
+
+
+#menu ul li a { 
+    padding: 2px 10px; 
+    display: inline-block; 
+    background-color:#1C1C1C; 
+    color:#8B008B; 
+    text-decoration: none; 
+    border-bottom:3px solid #1C1C1C; 
+}
+
+ /*Está relacionado com o button seu tamanho,cor,borda,margem e largura*/
+
+.form-box button{
+
+ width:100px;
+ border:none;
+ outline: none;
+ cursor:pointer;
+ font-size:50px;
+ font-wight:500;
+ background-color:#D1BD79;
+ color:#fff;
+   
+
+}
+
+.form-box button:hover{
+ width:100px;
+ background-color:#D1BD79;
+ margin:100;
+
+}
+
+
+/* Está relacionado com button que aparece para conter o acesso a outra página */
+	
+.item button{
+
+    padding: 5px 30px;
+    border: none;
+    outline: none;
+    background-color:#D1BD79;
+    color:write;
+    cursor:pointer;
+    border-radius: 4px;
+    font-size: 20px;
+    display: block;
+    margin: 0 auto;
+	  color:#FF00FF;
+}
+
+/*Destinado para fazer parte para o acesso a outra página como formato de um link no folha fonte*/
+.signup_link{
+
+
+
+  margin:30px 0;
+  text-align:principal;
+  font-size:50px;
+  color: #FF00FF;
+}
+
+.signup_link a {
+
+    color:#FF00FF;
+    text-decoration:none;
+    font-size:60px;
+
+} 
+
+
+.signup_link a:hover {
+
+    text-decoration:underline;
+
+}
+
+  
+/*Faz parte do formulário do seu tamanho,borda,largura,cor dele e da letra do que é descrito dentro*/
+.inicial form{
+
+  position:absolute;
+ 	top:50%;
+ 	left:50%;
+ 	transform:translate(-50%,-50%);
+  background:LightPink; 
+  width:700px;
+ 	border-radius:10px;
+
+
+}
+.inicial h1{
+
+
+	color:#2F4F4F;
+
+}
+
+/*Faz parte  do butoon que faz o acesso para outra página*/
+  .itens{
+
+  	display: grid;
+  	grid-template-columns: repeat(3,1fr);
+  	padding: 30px 20px;
+  	grid-column-gap: 30px;
+  }
+
+ /*Pertence a página parte_1 princípal contém sobre o tamanho,posição,cor e o tamanho da letra*/
+
+ .parte_1_principal{
+
+ 	position:absolute;
+ 	top:50%;
+ 	left:50%;
+ 	transform:translate(-50%,-50%);
+ 	width:700px;
+ 	border-radius:10px;
+ 
+
+ } 
+
+.parte_1_principal h1{
+
+ 	color:#2F4F4F;
+ }
+
+.parte_1_principal p{
+
+
+  font-size:15px;
+
+
+}
+
+/*Pertence a página parte_2 princípal contém sobre o tamanho,posição,cor e o tamanho da letra*/
+
+ .parte_2_principal{
+
+  position:absolute;
+  top:50%;
+  left:50%;
+  transform:translate(-50%,-50%);
+  width:700px;
+  border-radius:10px;
+ 
+
+ } 
+
+.parte_2_principal h1{
+
+  color:#2F4F4F;
+ }
+
+.parte_2_principal p{
+
+
+  font-size:15px;
+
+
+}
+
+
+/*Pertence a página parte_3 principal contém sobre o tamanho,posição,cor e o tamanho da letra*/
+
+.parte_3_principal{
+
+  position:absolute;
+  top:50%;
+  left:50%;
+  transform:translate(-50%,-50%);
+  width:700px;
+  border-radius:10px;
+
+ } 
+
+.parte_3_principal h1{
+
+  color:#2F4F4F;
+ }
+
+.parte_3_principal p{
+
+
+  font-size:15px;
+
+
+}
+
+
+/*Pertece a página primeira imagem a sua posição,largura,cor e tamanho da letra*/
+.parte_1_subprincipal{
+
+  position:absolute;
+  top:50%;
+  left:50%;
+  transform:translate(-50%,-50%);
+  width:700px;
+  border-radius:10px;
+
+ } 
+
+.parte_1_subprincipal h1{
+
+  color:#2F4F4F;
+ }
+
+.parte_1_subprincipal p{
+
+
+  font-size:15px;
+
+
+}
+
+/*Pertece a página segunda imagem a sua posição,largura,cor e tamanho da letra*/
+.parte_2_subprincipal{
+
+  position:absolute;
+  top:50%;
+  left:50%;
+  transform:translate(-50%,-50%);
+  width:700px;
+  border-radius:10px;
+
+ } 
+
+.parte_2_subprincipal h1{
+
+  color:#2F4F4F;
+ }
+
+.parte_2_subprincipal p{
+
+
+  font-size:15px;
+
+
+}
+
+/*Pertece a página terceira  imagem a sua posição,largura,cor e tamanho da letra*/
+
+.parte_2_subprincipal{
+
+  position:absolute;
+  top:50%;
+  left:50%;
+  transform:translate(-50%,-50%);
+  width:700px;
+  border-radius:10px;
+
+ } 
+
+.parte_2_subprincipal h1{
+
+  color:#2F4F4F;
+ }
+
+.parte_2_subprincipal p{
+
+
+  font-size:15px;
+
+
+}
+
+/*Pertece a página terceira imagem a sua posição,largura,cor e tamanho da letra*/
+
+.parte_3_subprincipal{
+
+  position:absolute;
+  top:50%;
+  left:50%;
+  transform:translate(-50%,-50%);
+  width:700px;
+  border-radius:10px;
+
+ } 
+
+.parte_3_subprincipal h1{
+
+  color:#2F4F4F;
+ }
+
+.parte_3_subprincipal p{
+
+
+  font-size:15px;
+
+
+}
+
+/*Pertece a página quarta imagem a sua posição,largura,cor e tamanho da letra*/
+
+.parte_4_subprincipal{
+
+  position:absolute;
+  top:50%;
+  left:50%;
+  transform:translate(-50%,-50%);
+  width:700px;
+  border-radius:10px;
+
+ } 
+
+.parte_4_subprincipal h1{
+
+  color:#2F4F4F;
+ }
+
+.parte_4_subprincipal p{
+
+
+  font-size:15px;
+
+
+}
+
+/*Pertece a página primeira imagem a sua posição,largura,cor e tamanho da letra*/     
+.parte_5_subprincipal{
+
+  position:absolute;
+  top:50%;
+  left:50%;
+  transform:translate(-50%,-50%);
+  width:700px;
+  border-radius:10px;
+
+ } 
+
+.parte_5_subprincipal h1{
+
+  color:#2F4F4F;
+ }
+
+.parte_5_subprincipal p{
+
+
+  font-size:15px;
+
+
+}
+
+/*Pertece a página sexta imagem a sua posição,largura,cor e tamanho da letra*/
+.parte_6_subprincipal{
+
+  position:absolute;
+  top:50%;
+  left:50%;
+  transform:translate(-50%,-50%);
+  width:700px;
+  border-radius:10px;
+
+ } 
+
+.parte_6_subprincipal h1{
+
+  color:#2F4F4F;
+ }
+
+.parte_6_subprincipal p{
+
+
+  font-size:15px;
+
+
+}
+ 
+
+
+
+
+
