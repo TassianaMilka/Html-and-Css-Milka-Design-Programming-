@@ -2,7 +2,7 @@
 
  Milka Design Programming
  
- Summary in Portuguese,English and Spanish
+ Summary in Portuguese,English and Spanish.
 
 # Resumo em Português
 
