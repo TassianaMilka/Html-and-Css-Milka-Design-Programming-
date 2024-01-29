@@ -1,0 +1,157 @@
+/*O tamanho da margem,largura,cor de fundo e a fonte da letra.*/
+*{
+    
+     margin:40px;
+     padding:40px;
+     box-sizing:border-box;
+     background-color:#FFFE91;
+     font-family:cursive;
+
+
+    }
+
+
+
+    /*Destinado para a rolagem de página.*/
+    body{
+
+
+     overflow-y:scroll;
+   
+    } 
+
+
+    /*Rolagem de página*/
+
+    body :: webkit-scroll{
+
+     width:10px;
+  
+     
+    
+    } 
+
+   /*Rolagem de página*/
+    body:: webkit-scroll-thumb{
+
+    
+     border-radius:10px;
+   
+    } 
+
+   /*Cor da letra*/
+   h1{
+     font-family: cursive;
+     color:#BDB76B;
+
+   }
+   /*Cor da letra*/
+   li{
+
+    font-family: cursive;
+    scrollbar-track-color:#BDB76B; 
+   }
+
+/*Destinado para o Menu de Decoração*/
+   
+   #menu ul { 
+ 
+  padding:20px ;
+  margin:0px;
+  background-color:#8E403A;
+  list-style:none;
+}
+
+  #menu ul li { 
+
+display: inline; 
+
+}
+
+
+/*Destinado para página 1*/
+.Página1{  
+
+     margin:40px;
+     padding:40px;
+     box-sizing:border-box;
+     background-color:#FFFE91;
+     font-family:cursive;
+
+}
+
+/*Destinado para página 2*/
+ .Página2{
+
+     margin:40px;
+     padding:40px;
+     box-sizing:border-box;
+     background-color:#FFFE91;
+     font-family:cursive;
+
+}
+
+/*Destinado para página 3*/
+.Página3{
+
+     margin:40px;
+     padding:40px;
+     box-sizing:border-box;
+     background-color:#FFFE91;
+     font-family:cursive;
+
+}
+
+/*Destinado para página 4*/
+.Página4{
+
+     margin:40px;  
+     padding:40px;
+     box-sizing:border-box;
+     background-color:#FFFE91;
+     font-family:cursive;
+
+}
+
+
+/*Destinado para página 5*/
+.Página5{
+
+     margin:40px;  
+     padding:40px;
+     box-sizing:border-box;
+     background-color:#FFFE91;
+     font-family:cursive;
+
+}
+
+/*Destinado para página 6*/
+.Página6{
+
+     margin:30px;  
+     padding:21px;
+     box-sizing:border-box;
+     background-color:#FFFE91;
+     font-family:cursive;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
