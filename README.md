@@ -39,6 +39,6 @@ Las capturas de pantalla están en Pinterest.
 
 # --------------------------------------------------------------------------------------------------------------------------------
 
-(Muito Obrigada),(Thank You),(Gracias) is (どうもありがとうございます)
+(Muito Obrigada),(Thank You),(Gracias) and (どうもありがとうございます)
  
 # https://github.com/TassianaMilka/Html-and-Css-Milka-Design-Programming-/wiki
