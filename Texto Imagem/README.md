@@ -24,3 +24,17 @@ Image-(6)
 
 ![Imagem-6](https://github.com/TassianaMilka/Html-and-Css-Milka-Design-Programming-/assets/114196099/e7607f57-0242-4702-9076-7972aacc2664)
 
+
+Image-(7)
+
+![Imagem-7](https://github.com/TassianaMilka/Html-and-Css-Milka-Design-Programming-/assets/114196099/22eee0a2-dd40-4f38-a070-1f2dcda157c0)
+
+
+Image-(8)
+
+![Imagem-8](https://github.com/TassianaMilka/Html-and-Css-Milka-Design-Programming-/assets/114196099/9d58c69f-1d40-4472-a8db-dc4f7e8c4165)
+
+
+Image-(9)
+
+
