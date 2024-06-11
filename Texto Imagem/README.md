@@ -1,4 +1,4 @@
-I'm create app the pin Microsoft picture.
+I'm create app the pin Microsoft pictures.
 
 
 
