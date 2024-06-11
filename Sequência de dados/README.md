@@ -35,5 +35,16 @@ Image-(2.6)
 ![Imagem-2 6](https://github.com/TassianaMilka/Html-and-Css-Milka-Design-Programming-/assets/114196099/89101ec8-3905-4e8e-a7ca-8685679b90f5)
 
 
+Image-(3)
 
+![Imagem-3](https://github.com/TassianaMilka/Html-and-Css-Milka-Design-Programming-/assets/114196099/bf674ce2-7acc-4555-b7fe-4d77364f77aa)
+
+Image-(4)
+
+![Imagem-4](https://github.com/TassianaMilka/Html-and-Css-Milka-Design-Programming-/assets/114196099/f680d2ac-0cae-41dc-a031-073d21231652)
+
+
+Image-(5)
+
+![Imagem-5](https://github.com/TassianaMilka/Html-and-Css-Milka-Design-Programming-/assets/114196099/24844047-674e-4a64-a2a2-de628c922019)
 
