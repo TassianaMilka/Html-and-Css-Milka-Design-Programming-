@@ -1,0 +1,63 @@
+/*Destinado para margem,largura e a fonte da página*/
+body{
+	
+	margin:20;
+	padding:20;
+	font-family:cursive;
+  height:100vh;
+	overflow:hidden;
+  overflow-y:scroll; 
+
+}
+ 
+/*Destinado para o funcionamento da rolagem de página*/
+body::-webkit-scrollbar{
+  width: 09px;
+  background-color:#9E2187; 
+  border-radius:20px;
+}
+
+body::-webkit-scrollbar-thumb{
+  background-color:#9E2187;
+  border-radius:20px;
+}
+
+/*Destinado para a imagem*/
+img{
+      border-radius:50%;
+        
+	
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
