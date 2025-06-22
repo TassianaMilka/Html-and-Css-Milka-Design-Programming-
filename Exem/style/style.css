@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+
+body{
+
+    background-color: #ae9e9e; 
+    font-family: 'Roboto', sans-serif; 
+
+
+} 
+
+body::-webkit-scrollbar{
+
+
+   width: 10px;
+   background-color: #000000;
+   border-radius:9px;
+
+}
+
+body::-webkit-scrollbar-thumb{
+
+    
+   background-color:#000000;
+   border-radius:12px;
+
+}
+
+ul{
+            
+    list-style-type: none; 
+    display: flex; 
+    justify-content: space-around; 
+    padding: 0;
+}
+
+menu ul li a {
+    margin:7px;
+    padding: 30px;
+    color: white;
+    text-decoration: none;
+    display: block;
+}
+menu ul li a:hover {
+    background-color: gray;
+}
+
+@keyframes typing {
+    from { 
+        width: 0; 
+    }
+    to { 
+        width: 20%; 
+    }
+}
+
+.typing-text {
+
+    margin:0px;
+    padding:0px;
+    color:#a52a2a;
+    display: inline-block;
+    overflow: hidden;
+    white-space: nowrap;
+    animation: typing 4s steps(30, end), blink-caret .75s step-end infinite;
+
+}
+
+@keyframes blink-caret {
+    from, to {
+         border-color: transparent; 
+    }
+    50% { 
+        border-color: transparent; 
+    }
+}
+
+
+.imagens-projetos{
+
+
+    margin-top: 0px;
+    display: flex; 
+    justify-content:space-evenly;
+    padding: 20px;
+    flex-wrap: wrap;
+    gap: 10px; 
+    background-color: #ae9e9e;
+    margin:100px;
+    font-size: 34px;
+    border-radius: 0.1px;
+
+}
+
+.imagens-projetos img{
+
+
+    width: 150px; 
+    height: 150px;
+    border-radius: 12px;
+  
+}
+
+
+
