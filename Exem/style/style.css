@@ -54,17 +54,6 @@ menu ul li a:hover {
     }
 }
 
-.typing-text {
-
-    margin:0px;
-    padding:0px;
-    color:#a52a2a;
-    display: inline-block;
-    overflow: hidden;
-    white-space: nowrap;
-    animation: typing 4s steps(30, end), blink-caret .75s step-end infinite;
-
-}
 
 @keyframes blink-caret {
     from, to {
